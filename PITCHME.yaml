@@ -6,3 +6,4 @@ transition : none
 #autoslide : 5500
 loop :  true
 published : true
+vertical-center : false
