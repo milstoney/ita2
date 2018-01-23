@@ -15,20 +15,36 @@
 ![ALT](https://nablarch.github.io/docs/5u9/doc/_images/framework.png)
 
 ---
-
 @title[ウェブアプリケーションの構成]
 #### ウェブアプリケーションの構成
 ![ALT](https://nablarch.github.io/docs/5u9/doc/_images/application_structure1.png)
 #### ・Nablarchサーブレットコンテキスト初期化リスナ (NablarchServletContextListener)
-  システムリポジトリやログの初期化処理を行うサーブレットコンテキストリスナ。
-
 #### ・Webフロントコントローラ (WebFrontController)
-  受け取ったリクエストに対する処理をハンドラキューに委譲するサーブレットフィルタ。
-  
+---
+@title[ウェブアプリケーションの処理の流れ]
+#### ウェブアプリケーションの処理の流れ
+![ALT](https://nablarch.github.io/docs/5u9/doc/_images/web-design.png)
+#### ・WebFrontController
+#### ・handler queue
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/web/architecture.html" target="_blank">
+ここ</a>
+
+---
+@title[アプリケーションの責務配置]
+#### アプリケーションの責務配置
+![ALT](https://nablarch.github.io/docs/5u9/doc/_images/application_design.png)
+#### ・アクションクラス(action class)
+#### ・フォームクラス(form class)
+#### ・エンティティクラス(entity class)
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/web/application_design.html" target="_blank">ここ</a>
 
 
 ---
 
+
+
+
+---
 @title[Introduction]
 
 # Git<span class="gold">Pitch</span>
