@@ -8,13 +8,16 @@
 #### ・Batch
 #### ・Workflow
 
+---?image=https://nablarch.github.io/docs/5u9/doc/_images/framework.png&size=50% 80%
 
 ---
 
----?image=https://nablarch.github.io/docs/5u9/doc/_images/framework.png&size=50% 80%
-
-
+@title[Web Application 1]
 ## Web Application
+
+#### ウェブアプリケーションの構成
+
+?image=https://nablarch.github.io/docs/5u9/doc/_images/application_structure1.png&size=50% 80%
 
 
 ---
