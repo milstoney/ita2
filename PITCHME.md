@@ -17,8 +17,7 @@
 
 #### ウェブアプリケーションの構成
 
-?image=https://nablarch.github.io/docs/5u9/doc/_images/application_structure1.png&size=50% 80%
-
+![ALT](images/framework.png)
 
 ---
 
