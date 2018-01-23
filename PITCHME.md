@@ -17,7 +17,7 @@
 
 #### ウェブアプリケーションの構成
 
-![ALT](assets/images/framework.png)
+![ALT](https://nablarch.github.io/docs/5u9/doc/_images/framework.png)
 
 ---
 
