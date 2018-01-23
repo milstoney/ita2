@@ -17,7 +17,7 @@
 
 #### ウェブアプリケーションの構成
 
-![ALT](images/framework.png)
+![ALT](assets/images/framework.png)
 
 ---
 
