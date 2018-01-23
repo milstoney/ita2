@@ -9,7 +9,8 @@
 #### ・Workflow
 
 ---
-##Nablarchアプリケーションフレームワークの全体像
+@title[全体像]
+## Nablarchアプリケーションフレームワークの全体像
 
 ![ALT](https://nablarch.github.io/docs/5u9/doc/_images/framework.png)
 
@@ -19,8 +20,14 @@
 ## Web Application
 
 #### ウェブアプリケーションの構成
+![ALT](https://nablarch.github.io/docs/5u9/doc/_images/application_structure1.png)
+#### Nablarchサーブレットコンテキスト初期化リスナ (NablarchServletContextListener)
+  システムリポジトリやログの初期化処理を行うサーブレットコンテキストリスナ。
 
-![ALT](https://nablarch.github.io/docs/5u9/doc/_images/framework.png)
+#### Webフロントコントローラ (WebFrontController)
+  受け取ったリクエストに対する処理をハンドラキューに委譲するサーブレットフィルタ。
+  
+
 
 ---
 
