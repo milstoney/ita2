@@ -66,8 +66,12 @@
 ---
 ####  RESTfulウェブサービス
 <a href="https://github.com/milstoney/nablarch-example-rest" target="_blank">ここ</a>
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/web_service/rest/architecture.html" target="_blank">ここ</a>
+
 ####   HTTPメッセージング
 <a href="https://github.com/milstoney/nablarch-example-http-messaging" target="_blank">ここ</a>
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/web_service/http_messaging/architecture.html" target="_blank">ここ</a>
+
 ---
 
 @title[Batch1]
@@ -77,9 +81,11 @@
 @title[Batch2]
 ####  JSR352に準拠したバッチアプリケーション
 <a href="https://github.com/milstoney/nablarch-example-batch-ee" target="_blank">ここ</a>
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/batch/jsr352/architecture.html" target="_blank">ここ</a>
 ####   Nablarchバッチアプリケーション
 
 <a href="https://github.com/milstoney/nablarch-example-batch" target="_blank">ここ</a>
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/batch/nablarch_batch/index.html" target="_blank">ここ</a>
 ---
 
 @title[Workflow]
