@@ -15,6 +15,9 @@
 ![ALT](https://nablarch.github.io/docs/5u9/doc/_images/framework.png)
 
 ---
+## ・Web Application
+
+---
 @title[ウェブアプリケーションの構成]
 #### ウェブアプリケーションの構成
 ![ALT](https://nablarch.github.io/docs/5u9/doc/_images/application_structure1.png)
@@ -26,8 +29,7 @@
 ![ALT](https://nablarch.github.io/docs/5u9/doc/_images/web-design.png)
 #### ・WebFrontController
 #### ・handler queue
-<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/web/architecture.html" target="_blank">
-ここ</a>
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/web/architecture.html" target="_blank">ここ</a>
 
 ---
 @title[アプリケーションの責務配置]
@@ -40,105 +42,54 @@
 
 
 ---
+@title[各画面の実装1]
+#### 各画面の実装
+#### 2.3.1. 登録機能の作成(ハンズオン形式)
+#### 2.3.2. 検索機能の作成
+#### 2.3.3. 更新機能の作成
+#### 2.3.4. 削除機能の作成
 
+---
+@title[各画面の実装2]
 
+#### 2.3.5. アップロードを用いた一括登録機能の作成
+#### 2.3.6. ファイルダウンロード機能の作成
+#### 2.3.7. ポップアップ画面の作成
+#### 2.3.8. 一括更新機能の作成
+<a href="https://nablarch.github.io/docs/5u9/doc/application_framework/application_framework/web/index.html" target="_blank">ここ</a>
 
 
 ---
-@title[Introduction]
+@title[Web Service(REST)]
+## ・Web Service(REST)
 
-# Git<span class="gold">Pitch</span>
+---
+####  RESTfulウェブサービス
+<a href="https://github.com/milstoney/nablarch-example-rest" target="_blank">ここ</a>
+####   HTTPメッセージング
+<a href="https://github.com/milstoney/nablarch-example-http-messaging" target="_blank">ここ</a>
+---
 
-#### Markdown Presentations For Everyone on Git.*
-<br>
-<br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+@title[Batch1]
+## ・Batch
+
+---
+@title[Batch2]
+####  JSR352に準拠したバッチアプリケーション
+<a href="https://github.com/milstoney/nablarch-example-batch-ee" target="_blank">ここ</a>
+####   Nablarchバッチアプリケーション
+
+<a href="https://github.com/milstoney/nablarch-example-batch" target="_blank">ここ</a>
+---
+
+@title[Workflow]
+## ・Workflow
+
+<a href="https://github.com/milstoney/nablarch-example-workflow" target="_blank">ここ</a>
 
 ---
 
-@title[PITCHME.md]
+@title[次回]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
-<br>
-<span class="aside">Just like this one...</span>
-
----
-
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
-<br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
-
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
-
-<br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
-
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
-
----
-
-@title[Step 2. Git-Commit]
-
-### <span class="gold">STEP 2. GIT-COMMIT</span>
-<br>
-
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
-
----
-
-@title[Step 3. Done!]
-
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
-<br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-@title[Slide Rich]
-
-### <span class="gold">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
-
----
-
-@title[Feature Rich]
-
-### <span class="gold">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
-
----
-
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
+#### 掘り下げた内容もうちょっと書こうか
+#### テスティングフレームワークとか
