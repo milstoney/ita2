@@ -1,5 +1,5 @@
 
-@title[Introduction]
+@title[Agenda]
 
 ## Nablarch
 
@@ -7,6 +7,14 @@
 #### ・Web Service(REST)
 #### ・Batch
 #### ・Workflow
+
+
+---
+
+---?image=https://nablarch.github.io/docs/5u9/doc/_images/framework.png&size=50% 80%
+
+
+## Web Application
 
 
 ---
