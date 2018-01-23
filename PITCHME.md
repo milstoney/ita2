@@ -8,7 +8,10 @@
 #### ・Batch
 #### ・Workflow
 
----?image=https://nablarch.github.io/docs/5u9/doc/_images/framework.png&size=50% 80%
+---
+##Nablarchアプリケーションフレームワークの全体像
+
+![ALT](https://nablarch.github.io/docs/5u9/doc/_images/framework.png)
 
 ---
 
